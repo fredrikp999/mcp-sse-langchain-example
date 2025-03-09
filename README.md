@@ -92,5 +92,5 @@ MIT
 
 ## Acknowledgments
 
-- This project uses the [MCP (Machine Conversation Protocol)](https://github.com/microsoft/mcp) developed by Microsoft
+- This project uses the [MCP (Model Context Protocol)](https://modelcontextprotocol.io/introduction) developed by Anthropic
 - Integration with [LangChain](https://github.com/langchain-ai/langchain) for agent functionality
